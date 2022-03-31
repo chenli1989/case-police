@@ -82,6 +82,7 @@
   "odbc": "ODBC",
   "openjdk": "OpenJDK",
   "openssl": "OpenSSL",
+  "oracle": "Oracle",
   "orm": "ORM",
   "paas": "PaaS",
   "photoshop": "Photoshop",
