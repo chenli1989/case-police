@@ -81,6 +81,7 @@
   "ocaml": "OCaml",
   "odbc": "ODBC",
   "openjdk": "OpenJDK",
+  "openssl": "OpenSSL",
   "orm": "ORM",
   "paas": "PaaS",
   "photoshop": "Photoshop",
